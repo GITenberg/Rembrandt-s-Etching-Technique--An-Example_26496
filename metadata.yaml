@@ -1,0 +1,25 @@
+_repo: Rembrandt-s-Etching-Technique--An-Example_26496
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26496-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Morse, Peter
+    gutenberg_agent_id: '32046'
+    url: http://www.gutenberg.org/2009/agents/32046
+description: ''
+gutenberg_issued: '2008-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26496'
+  lccn: '66061249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+title: 'Rembrandt''s Etching Technique: An Example'
+url: http://www.gutenberg.org/ebooks/26496
